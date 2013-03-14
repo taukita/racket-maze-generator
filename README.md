@@ -1,4 +1,4 @@
-генератор лабиринтов написанный just for fun на Racket (http://racket-lang.org)
+РіРµРЅРµСЂР°С‚РѕСЂ Р»Р°Р±РёСЂРёРЅС‚РѕРІ РЅР°РїРёСЃР°РЅРЅС‹Р№ just for fun РЅР° Racket (http://racket-lang.org)
 
 ***
 
